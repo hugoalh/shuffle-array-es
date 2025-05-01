@@ -7,7 +7,7 @@
 [![JSR: @hugoalh/shuffle-array](https://img.shields.io/jsr/v/@hugoalh/shuffle-array?label=@hugoalh/shuffle-array&labelColor=F7DF1E&logo=jsr&logoColor=000000&style=flat "JSR: @hugoalh/shuffle-array")](https://jsr.io/@hugoalh/shuffle-array)
 [![NPM: @hugoalh/shuffle-array](https://img.shields.io/npm/v/@hugoalh/shuffle-array?label=@hugoalh/shuffle-array&labelColor=CB3837&logo=npm&logoColor=ffffff&style=flat "NPM: @hugoalh/shuffle-array")](https://www.npmjs.com/package/@hugoalh/shuffle-array)
 
-An ES (JavaScript & TypeScript) module to shuffle the array's indexes.
+An ECMAScript (JavaScript & TypeScript) module to shuffle the array's indexes.
 
 ## 🔰 Begin
 
