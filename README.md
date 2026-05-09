@@ -4,8 +4,8 @@
 
 🔗
 [GitHub](https://github.com/hugoalh/shuffle-array-es)
-[JSR](https://jsr.io/@hugoalh/shuffle-array)
-[NPM](https://www.npmjs.com/package/@hugoalh/shuffle-array)
+● [JSR](https://jsr.io/@hugoalh/shuffle-array)
+● [NPM](https://www.npmjs.com/package/@hugoalh/shuffle-array)
 
 An ECMAScript module to shuffle the array's indexes.
 
