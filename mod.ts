@@ -25,7 +25,7 @@ export function shuffleArray<T>(item: readonly T[], prng: PseudoRandomNumberGene
 	while (itemClone.length > 0) {
 		const n: number = prng();
 		if (!(n >= 0 && n < 1)) {
-			throw new Error(`Invalid pseudo random number generator! Expect a number which >= 0 and < 1; Current \`${n}\`.`);
+			throw new Error(`Invalid pseudo random number generator! Expect a number which >= 0 and < 1. Current: \`${n}\``);
 		}
 		const i: number = Math.floor(n * itemClone.length);
 		result.push(itemClone[i]);
