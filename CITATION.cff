@@ -7,6 +7,7 @@ authors:
   - name: "HUGOALH"
     alias: "hugoalh"
 repository-code: "https://github.com/hugoalh/shuffle-array-es"
+abstract: "An ECMAScript module to shuffle the array's indexes."
 keywords:
   - "array"
   - "ecmascript"

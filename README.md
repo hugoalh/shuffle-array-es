@@ -3,7 +3,8 @@
 [**⚖️** MIT](./LICENSE.md)
 
 🔗
-[GitHub](https://github.com/hugoalh/shuffle-array-es)
+[DistBoard @hugoalh](https://hugoalh.github.io/distboard/shuffle_array_ecmascript)
+● [GitHub](https://github.com/hugoalh/shuffle-array-es)
 ● [JSR](https://jsr.io/@hugoalh/shuffle-array)
 ● [NPM](https://www.npmjs.com/package/@hugoalh/shuffle-array)
 
